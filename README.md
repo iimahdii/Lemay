@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. First, ya need to make sure you're on Google Colab. If not, head over to [Google Colab](https://colab.research.google.com/) and set up a new notebook.
+1. First, i have done this task through Google Colab. head over to [Google Colab](https://colab.research.google.com/) and set up a new notebook, if you want.
 
 2. Run the following commands to install necessary dependencies:
 
