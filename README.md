@@ -14,7 +14,7 @@
 3. Clone this repository into your Colab environment (or download the `.ipynb` notebook and upload it manually):
 
 ```python
-!git clone [Data_Anlysis_Lemay](https://github.com/iimahdii/Lemay.git)
+!git clone https://github.com/iimahdii/Lemay.git
 ```
 
 4. Open the `Data-Anlysis-Lemay.ipynb` notebook in Colab.
