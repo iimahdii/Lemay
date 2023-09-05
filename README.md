@@ -17,7 +17,7 @@
 !git clone https://github.com/iimahdii/Lemay.git
 ```
 
-4. Open the `Data-Anlysis-Lemay.ipynb` notebook in Colab.
+4. Open the `Data-Anlysis-Lemay.ipynb` notebook in Colab/Jupyter notebook.
 
 ## Running the Analysis
 
