@@ -1,5 +1,10 @@
 # Data Analysis on Beans Dataset
 
+**Note on the Use of Techniques in this Notebook:**
+
+Throughout this notebook, a variety of techniques and methodologies have been applied to the dataset for exploratory and analytical purposes. It's important to understand that not all techniques are universally suitable for every dataset. The choice of technique should ideally be based on the nature of the data, the underlying distribution, and the specific goals of the analysis.
+The reason for showcasing a range of techniques in this notebook is to demonstrate familiarity and proficiency with them. In a real-world scenario, one would select techniques after careful consideration of the dataset's characteristics and the analysis's objectives.
+
 ## Setup
 
 1. First, i have done this task through Google Colab. head over to [Google Colab](https://colab.research.google.com/) and set up a new notebook, if you want.
